@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Song of wavering reprise",
+  "base_artist": "Tottomori",
+  "createdAt": "2025-12-01T00:14:22.806423Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gales of Song",
+      "artist": "Belle",
+      "has_synced": true,
+      "path": "select/01_Gales_of_Song_Belle.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gales of Song",
+      "artist": "Belle",
+      "has_synced": true,
+      "path": "select/02_Gales_of_Song_Belle.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mingulay Boat Song",
+      "artist": "The Longest Johns",
+      "has_synced": false,
+      "path": "select/03_Mingulay_Boat_Song_The_Longest_Johns.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Bard's Song - In The Forest",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/04_The_Bard's_Song_-_In_The_Forest_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Bard's Song - In the Forest",
+      "artist": "Blind Guardian",
+      "has_synced": true,
+      "path": "select/05_The_Bard's_Song_-_In_the_Forest_Blind_Guardian.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Wolven Storm (Priscilla's Song)",
+      "artist": "Malukah",
+      "has_synced": true,
+      "path": "select/06_The_Wolven_Storm_(Priscilla's_Song)_Malukah.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Workers Song (feat. Seth Lakeman)",
+      "artist": "The Longest Johns feat. Seth Lakeman",
+      "has_synced": true,
+      "path": "select/07_The_Workers_Song_(feat._Seth_Lakeman)_The_Longest_Johns_feat._Seth_Lakeman.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Workers Song",
+      "artist": "The Longest Johns",
+      "has_synced": true,
+      "path": "select/08_The_Workers_Song_The_Longest_Johns.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Drinking Song",
+      "artist": "A Thousand Horses",
+      "has_synced": false,
+      "path": "select/09_Drinking_Song_A_Thousand_Horses.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Drinking Song",
+      "artist": "A Thousand Horses",
+      "has_synced": false,
+      "path": "select/10_Drinking_Song_A_Thousand_Horses.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Everybody Needs a Song",
+      "artist": "Chris Young feat. Old Dominion",
+      "has_synced": true,
+      "path": "select/11_Everybody_Needs_a_Song_Chris_Young_feat._Old_Dominion.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Everybody Needs a Song",
+      "artist": "Chris Young",
+      "has_synced": true,
+      "path": "select/12_Everybody_Needs_a_Song_Chris_Young.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stick That In Your Country Song",
+      "artist": "Eric Church",
+      "has_synced": true,
+      "path": "select/13_Stick_That_In_Your_Country_Song_Eric_Church.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stick That In Your Country Song",
+      "artist": "Eric Church",
+      "has_synced": true,
+      "path": "select/14_Stick_That_In_Your_Country_Song_Eric_Church.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Logical Song",
+      "artist": "Supertramp",
+      "has_synced": true,
+      "path": "select/15_The_Logical_Song_Supertramp.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Logical Song - Remastered 2010",
+      "artist": "Supertramp",
+      "has_synced": true,
+      "path": "select/16_The_Logical_Song_-_Remastered_2010_Supertramp.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "What's Your Country Song",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/17_What's_Your_Country_Song_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "What’s Your Country Song",
+      "artist": "Thomas Rhett",
+      "has_synced": true,
+      "path": "select/18_What’s_Your_Country_Song_Thomas_Rhett.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "The Bird Song",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/19_The_Bird_Song_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "The Bird Song",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/20_The_Bird_Song_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "Song of wavering reprise",
+      "artist": "Tottomori",
+      "has_synced": false,
+      "path": "select/pl_Song_of_wavering_reprise_Tottomori.txt"
+    }
+  ]
+}
